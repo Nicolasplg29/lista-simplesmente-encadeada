@@ -1,0 +1,4 @@
+Ponto Verde Centro;Av. Brasil, 123;Plástico
+Ponto Verde Sul;Rua das Árvores, 456;Vidro
+EcoPonto Norte;Rua dos Recicláveis, 789;Eletrônicos
+EcoPonto Leste;Av. Central, 321;Plástico
